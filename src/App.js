@@ -3,22 +3,8 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <h1>Paulomi madam apnar jodi puro joubon jure biyer ichche na hoy tahole 50 eo hbe na.<br></br>--Rajarshi(22/2/2024)</h1>
+
   );
 }
 
